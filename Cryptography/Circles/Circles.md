@@ -1,13 +1,13 @@
 # Circles
 
-## Soal
+## Description
 
 Some typefaces are mysterious, like this one - its origins are an enigma wrapped within a riddle, indeed. 
 
 [circles.png](https://github.com/desyaapd/TJCTF-2020-baboba/edit/master/Cryptography/Circles/circles.png)
 
 
-## Penyelesaian
+## Solution
 
 Di dalam gambar tesebut, tedapat sebuah simbol yang merupakan petunjuk untuk menemukan flag tersebut. Apabila dilihat dari polanya, simbol tersebut akan berisi `tjctf{ _isi dari flag_ }`. Jika dilihat dari motif simbol, terlihat bahwa simbol tersebut berupa sebuah **_font_**. Untuk mengetahui font tersebut kita dapat menggunakan sebuah tool berupa **_font identifier_** seperti [link berikut](https://www.whatfontis.com/)
 
