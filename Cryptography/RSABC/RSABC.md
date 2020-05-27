@@ -27,7 +27,7 @@ $ruby main.rb
 tjctf{BOLm1QMWi3c}
 ```
 
-### Flag: 
+## Flag: 
 ```
 tjctf{BOLm1QMWi3c}
 ```
