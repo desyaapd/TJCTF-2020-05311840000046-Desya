@@ -12,9 +12,7 @@ __Hint__: ```SHI ZAAAAA (cipher)```
 	<br>Darisini, kita dapat melihat dengan sangat jelas terdapat 1 (satu) kalimat dengan ```flag format``` <br>
 ![02](https://user-images.githubusercontent.com/49342639/83008336-36250100-a03f-11ea-8d53-bbf033ecb9d8.PNG)
 	<br>Karena ```flag``` tersebut masih belum sesuai dengan ```flag format sebenarnya``` dan terdapat __Hint__ yang menunjukkan bahwa ```flag``` di dalam _link_ berbentuk __cipher__, maka kita perlu melakukan pendeskripsian melalui _online tools for decrypt_ yakni ```Cryptii```. Jangan lupa untuk mengatur __shift__ dari __cipher__ tersebut hingga kita berhasil menemukan ```flag``` dengan ```flag format sebenarnya```<br>
-	![03](https://user-images.githubusercontent.com/49342639/83009437-f8c17300-a040-11ea-8d71-e9bf7b1f957b.PNG)
-	<br>Nah, pada bagian __plaintext__ dapat kita lihat ```flag format sebenarnya``` <br>
-	![04](https://user-images.githubusercontent.com/49342639/83009719-5bb30a00-a041-11ea-9ead-e0639e26d230.PNG)
+	![03](https://github.com/desyaapd/baboba/edit/master/Cryptography/Speedrunner/runner.PNG)
 	
 ## Flag
 ```html
