@@ -4,7 +4,7 @@
 
 Some typefaces are mysterious, like this one - its origins are an enigma wrapped within a riddle, indeed. 
 
-[circles.png](https://github.com/desyaapd/TJCTF-2020-baboba/edit/master/Cryptography/Circles/circles.png)
+[circles.png](https://github.com/desyaapd/TJCTF-2020-baboba/blob/master/Cryptography/Circles/circles.png)
 
 
 ## Solution
