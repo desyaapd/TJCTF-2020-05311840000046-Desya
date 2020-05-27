@@ -1,13 +1,7 @@
-# Censorship - 30 points
+# Censorship
 ## Description
 
 My friend has some top-secret government intel. He left a message, but the government censored him! They didn't want the information to be leaked, but can you find out what he was trying to say? ```nc p1.tjctf.org 8003```
-
-## Flag
-
-```
-tjctf{TH3_1llum1n4ti_I5_R3aL}
-```
 
 ## Solution
 
@@ -25,3 +19,9 @@ Untuk menyelesaikan problem ini, diperlukan langkah-langkah sebagai berikut:
 4. Buka packet yang telah diexport tadi pada text editor (disini saya menggunakan VSCode), kemudian cari kata kunci dengan cara tekan ```ctrl + f``` lalu ketik ```"tjctf{"```. Maka flag akan terlihat seperti pada gambar berikut.
 
 ![image](./03.jpg)
+
+## Flag
+
+```
+tjctf{TH3_1llum1n4ti_I5_R3aL}
+```
