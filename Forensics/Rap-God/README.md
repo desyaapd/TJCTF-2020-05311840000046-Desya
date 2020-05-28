@@ -8,7 +8,7 @@ My rapper friend Big Y sent me his [latest track](https://github.com/lumbricina/
 
 Untuk mendapatkan flag dari audio file, dapat dengan menggunakan aplikasi seperti Audacity atau Sonic Visualiser. Perhatikan waveform dan spectogram yang ada. Akan didapatkan tampilan seperti ini :
 
-![image](./rapgod.jpg)
+![image](https://github.com/desyaapd/TJCTF-2020-baboba/blob/master/Forensics/Rap-God/rapgod.jpg)
 
 Dapat dilihat bahwa pada gambar tersebut terdapat wingdings character. Mentranslate character itu akan mendapat kata QUICKSONIC
 
