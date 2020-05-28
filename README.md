@@ -1,4 +1,4 @@
-# TJCTF 2020 
+# TJCTF 2020 - EAS KWA
 ### Desya Ananda Puspita Dewi 05311840000046  
 ### Team : baboba
 
