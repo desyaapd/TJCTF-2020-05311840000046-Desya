@@ -14,7 +14,7 @@
 
 - **[Forensics](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Forensics)**
   - [Ling Ling](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Forensics/Ling%20Ling)
-  - [Rap God](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Forensics/Rap%20God)
+  - [Rap God](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Forensics/Rap-God)
   - [Hexillology](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Forensics/Hexillology)
 
 - **[Miscellaneous](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Miscellaneous)**
