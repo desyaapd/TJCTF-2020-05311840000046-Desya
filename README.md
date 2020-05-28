@@ -1,6 +1,9 @@
-# TJCTF 2020 - EAS KWA
-### Desya Ananda Puspita Dewi 05311840000046  
-### Team : baboba
+# TJCTF 2020 - EAS Keamanan Web dan Aplikasi
+```
+Desya Ananda Puspita Dewi
+05311840000046
+Team  : baboba
+```
 
 ## Solved Problem
 - **[Cryptography](https://github.com/desyaapd/TJCTF-2020-baboba/tree/master/Cryptography)**
