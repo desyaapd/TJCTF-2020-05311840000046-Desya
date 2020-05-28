@@ -10,6 +10,9 @@ Join grup discord yang ada di alam website TJCTF 2020. Di dalam grup tersebut te
 
 ![image](./flag.png)
 
+Apabila dengan dark mode atau black background, akan menampilkan tulisan seperti berikut
+
+![image](./flag2.png)
 
 ## Flag
 
